@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Message"
+git config --global user.name "Janaa-V"
+git config --global user.email "janaa09052004@gmail.com"
+git remote add dummy ""
+git push dummy master
